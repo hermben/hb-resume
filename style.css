@@ -69,3 +69,8 @@ body {
     margin-right: 10px;
     text-decoration: underline;
 }
+
+
+#profil_image {
+    height: 100px;
+}
